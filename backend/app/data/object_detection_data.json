@@ -1,0 +1,128 @@
+[
+    {
+        "image_id": "image_1",
+        "objects": [
+            {
+                "object_id": "object_1",
+                "class": "car",
+                "bbox": [0.1, 0.2, 0.3, 0.4],
+                "confidence": 0.95
+            },
+            {
+                "object_id": "object_2",
+                "class": "pedestrian",
+                "bbox": [0.5, 0.6, 0.7, 0.8],
+                "confidence": 0.85
+            }
+        ],
+        "timestamp": "2024-06-01T12:34:56Z"
+    },
+    {
+        "image_id": "image_2",
+        "objects": [
+            {
+                "object_id": "object_3",
+                "class": "cyclist",
+                "bbox": [0.2, 0.3, 0.4, 0.5],
+                "confidence": 0.9
+            }
+        ],
+        "timestamp": "2024-06-01T12:35:56Z"
+    },
+    {
+        "image_id": "image_3",
+        "objects": [
+            {
+                "object_id": "object_4",
+                "class": "car",
+                "bbox": [0.4, 0.5, 0.6, 0.7],
+                "confidence": 0.92
+            }
+        ],
+        "timestamp": "2024-06-01T12:36:56Z"
+    },
+    {
+        "image_id": "image_4",
+        "objects": [
+            {
+                "object_id": "object_5",
+                "class": "pedestrian",
+                "bbox": [0.3, 0.4, 0.5, 0.6],
+                "confidence": 0.88
+            }
+        ],
+        "timestamp": "2024-06-01T12:37:56Z"
+    },
+    {
+        "image_id": "image_5",
+        "objects": [
+            {
+                "object_id": "object_6",
+                "class": "cyclist",
+                "bbox": [0.1, 0.3, 0.5, 0.7],
+                "confidence": 0.91
+            }
+        ],
+        "timestamp": "2024-06-01T12:38:56Z"
+    },
+    {
+        "image_id": "image_6",
+        "objects": [
+            {
+                "object_id": "object_7",
+                "class": "car",
+                "bbox": [0.2, 0.4, 0.6, 0.8],
+                "confidence": 0.93
+            }
+        ],
+        "timestamp": "2024-06-01T12:39:56Z"
+    },
+    {
+        "image_id": "image_7",
+        "objects": [
+            {
+                "object_id": "object_8",
+                "class": "pedestrian",
+                "bbox": [0.4, 0.6, 0.8, 1.0],
+                "confidence": 0.89
+            }
+        ],
+        "timestamp": "2024-06-01T12:40:56Z"
+    },
+    {
+        "image_id": "image_8",
+        "objects": [
+            {
+                "object_id": "object_9",
+                "class": "cyclist",
+                "bbox": [0.3, 0.5, 0.7, 0.9],
+                "confidence": 0.92
+            }
+        ],
+        "timestamp": "2024-06-01T12:41:56Z"
+    },
+    {
+        "image_id": "image_9",
+        "objects": [
+            {
+                "object_id": "object_10",
+                "class": "car",
+                "bbox": [0.5, 0.6, 0.7, 0.8],
+                "confidence": 0.94
+            }
+        ],
+        "timestamp": "2024-06-01T12:42:56Z"
+    },
+    {
+        "image_id": "image_10",
+        "objects": [
+            {
+                "object_id": "object_11",
+                "class": "pedestrian",
+                "bbox": [0.6, 0.7, 0.8, 0.9],
+                "confidence": 0.87
+            }
+        ],
+        "timestamp": "2024-06-01T12:43:56Z"
+    }
+]
